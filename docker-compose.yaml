@@ -1,0 +1,10 @@
+services:
+  IWWBAD-backend-service:
+    image: backend-image
+    container_name: iwwb-backend
+    restart: always
+    build: ./backend
+    ports:
+      - "5050:5050"
+
+ 

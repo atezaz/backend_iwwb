@@ -1,0 +1,13 @@
+{
+    "IT_KEYWORDS": ["edv", "data", "excel", "programmier", "python", "sql", "c++", "java", "php", "sap", "webentwicklung", "software", "informatik", "entwickler", "CompTIA", "oracle"],
+    "LANGUAGE_KEYWORDS": ["sprach", "a1", "a2" , "b1", "b2", "c1" , "c2", "englisch", "französisch", "deutsch", "italienisch", "spanisch", "japanisch", "chinesisch"],
+    "SPORT_KEYWORDS": ["yoga", "fußball", "fitness", "basketball" , "volleyball", "schwimm" , "athletik", "tanz", "trainer"],
+    "SCIENCE_KEYWORDS": ["pyhsik", "chemie", "biologie", "wissenschaft", "mathe", "forschung"],
+    "MANAGMENT_KEYWORDS": ["steuer", "versicherung", "recht", "lexware", "unternehmen", "datev","finanz", "buisness", "buchaltung", "management", "controlling"],
+    "MEDICINE_KEYWORDS": ["pfleger", "medizin", "artzt", "krank", "gesundheit", "massage"],
+    "MARKETING_KEYWORDS": ["marketing"],
+    "MUSIC_KEYWORDS": ["musik", "singen", "gitarre", "piano", "klavier", "konzert", "musical"],
+    "ART_KEYWORDS": ["kunst", "malen", "malerei", "zeichnen", "atelie"],
+    "MEDIA_KEYWORDS": ["adobe", "photoshop", "video", "videobearbeitung", "bildbearbeitung", "gimp", "multimedia", "blender", "3d"],
+    "UNKNOWN_KEYWORDS": []
+}
