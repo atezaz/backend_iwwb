@@ -7,4 +7,10 @@ services:
     ports:
       - "5050:5050"
 
- 
+  IWWBAD-frontend-service:
+    image: frontend-image
+    container_name: iwwb-frontend
+    restart: always
+    build: ./frontend
+    ports:
+     - "8080:8080"
